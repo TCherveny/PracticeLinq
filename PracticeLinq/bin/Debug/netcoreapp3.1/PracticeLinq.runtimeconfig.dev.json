@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mountainside Designs\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mountainside Designs\\.nuget\\packages"
+    ]
+  }
+}
